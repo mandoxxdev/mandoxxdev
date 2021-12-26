@@ -1,7 +1,4 @@
 ### 
-<img align="right"
-alt="mandoxx-pic" height="120" style="border-radius:50px;" src="https://media.discordapp.net/attachments/883371376000516186/924795134472769556/270950e0dcc50ad90da4942ef28b18c7.jpg">
-
 </div>
 <div align="left">
 Hello, welcome to my profile I do projects for CSGO/CSS and sites like: arcanecsgo.siteㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
