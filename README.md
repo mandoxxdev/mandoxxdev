@@ -1,14 +1,14 @@
 ### 
-<div align="center">
-Hello, welcome to my profile I do projects for CSGO/CSS and sites like: arcanecsgo.site
-
-ㅤㅤC++ | JavaScript | SourcePawn ㅤ
-ㅤㅤSteam: id/mandoxxdev
-ㅤㅤDiscord: mandoxx#2856
-ㅤㅤallied.arcanecsgo.site
-
 <img align="right" alt="mandoxx-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/883371376000516186/924795134472769556/270950e0dcc50ad90da4942ef28b18c7.jpg">
+
 </div>
+<div align="left">
+Hello, welcome to my profile I do projects for CSGO/CSS and sites like: arcanecsgo.siteㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+
+ - C++ | JavaScript | SourcePawnㅤ
+ - Steam: id/mandoxxdevㅤ
+ - Discord: mandoxx#2856ㅤ
+ - allied.arcanecsgo.siteㅤ
 
 <div align="left">
   <a href="https://github.com/mandoxxdev">
