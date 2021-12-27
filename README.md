@@ -14,11 +14,13 @@ Hello, welcome to my profile I do projects for CSGO/CSS and sites like: arcanecs
 </div>
  
 <a href="https://instagram.com/matheusdh_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/beq9YW8Ur2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <div> 
-   <div style="display: inline_block"><br>
+<a href="https://discord.gg/beq9YW8Ur2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+<div style="display: inline_block"><br>
   <img align="left" alt="mandoxx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="mandoxx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="mandoxx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ </a> 
+ <div> 
+  
 </div>
 </div>
