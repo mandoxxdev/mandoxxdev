@@ -1,7 +1,7 @@
 ### 
 </div>
 <div align="left">
-Hello, welcome to my profile. I do projects for CSGO/CSS and sites like: <a href="matheus.website">matheus.dev</a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+Hello, welcome to my profile. I do projects for CSGO/CSS and sites like: <a href="www.matheus.website">matheus.dev</a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
  
  - C++ | JavaScript | SourcePawn
  - Steam: id/mandoxxdevㅤ
