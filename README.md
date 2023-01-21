@@ -1,12 +1,11 @@
 ### 
 </div>
 <div align="left">
-Hello, welcome to my profile. I do projects for CSGO/CSS and sites like: arcanecsgo.siteㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+Hello, welcome to my profile. I do projects for CSGO/CSS and sites like: <a href="matheus.website">matheus.dev</a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
  
  - C++ | JavaScript | SourcePawn
  - Steam: id/mandoxxdevㅤ
- - Discord: mandoxx#2856ㅤ
- - allied.arcanecsgo.siteㅤ
+ - Discord: mandoxx#7126
 <div align="left">
   <a href="https://github.com/mandoxxdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandoxxdev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
