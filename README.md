@@ -6,7 +6,7 @@ Hello, welcome to my profile. I do projects for CSGO/CSS and sites like: matheus
  
  - C++ | JavaScript | SourcePawn
  - Steam: id/mandoxxdevㅤ
- - Discord: mandoxx#7126
+ - Discord: mandoxx#4343
 <div align="left">
   <a href="https://github.com/mandoxxdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandoxxdev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
