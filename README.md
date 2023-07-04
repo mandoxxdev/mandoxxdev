@@ -1,8 +1,6 @@
 ### 
 </div>
 <div align="left">
-Hello, welcome to my profile. I do projects for CSGO/CSS and sites like: matheus.website
- 
  
  - C++ | JavaScript | SourcePawn
  - Steam: id/mandoxxdevㅤ
